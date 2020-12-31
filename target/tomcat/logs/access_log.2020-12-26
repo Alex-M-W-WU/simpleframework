@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:17:05:11 +0800] "GET /simpleFrameWork/hello HTTP/1.1" 200 - http-bio-8080-exec-1 22047
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:17:06:34 +0800] "GET /simpleFrameWork/ HTTP/1.1" 200 - http-bio-8080-exec-3 63700
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:17:06:34 +0800] "GET /simpleFrameWork HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:17:06:34 +0800] "GET /simpleFrameWork/ HTTP/1.1" 200 - http-bio-8080-exec-6 583
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:17:06:41 +0800] "GET /simpleFrameWork/ HTTP/1.1" 200 - http-bio-8080-exec-8 3896
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:17:34:18 +0800] "GET /simpleFrameWork/static/IMG_7651.JPG HTTP/1.1" 200 - http-bio-8080-exec-1 559808
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:17:44:09 +0800] "GET /simpleFrameWork/static/IMG_7651.JPG HTTP/1.1" 200 126416 http-bio-8080-exec-1 30394

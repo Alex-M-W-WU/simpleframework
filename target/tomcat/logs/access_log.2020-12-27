@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:22:15 +0800] "GET /simpleFrameWork HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:22:16 +0800] "GET /simpleFrameWork/ HTTP/1.1" 500 3937 http-bio-8080-exec-3 392
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:26:26 +0800] "GET /simpleFrameWork/headline/remove HTTP/1.1" 500 3937 http-bio-8080-exec-1 462
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:32:39 +0800] "GET /simpleFrameWork/headline/remove HTTP/1.1" 200 - http-bio-8080-exec-1 23522
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:39:21 +0800] "GET /simpleFrameWork/main/test HTTP/1.1" 200 - http-bio-8080-exec-1 3823
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:40:53 +0800] "GET /simpleFrameWork/main/test HTTP/1.1" 200 - http-bio-8080-exec-1 566
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:41:49 +0800] "GET /simpleFrameWork/main/test HTTP/1.1" 200 - http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:44:23 +0800] "GET /simpleFrameWork/main/test HTTP/1.1" 200 - http-bio-8080-exec-1 708
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:44:27 +0800] "GET /simpleFrameWork/main/test HTTP/1.1" 200 - http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:47:13 +0800] "GET /simpleFrameWork/main/test HTTP/1.1" 200 - http-bio-8080-exec-5 81129
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:52:24 +0800] "GET /simpleFrameWork/main/test HTTP/1.1" 500 1089 http-bio-8080-exec-1 55052
+0:0:0:0:0:0:0:1 - - [27/Dec/2020:15:55:42 +0800] "GET /simpleFrameWork/nnn HTTP/1.1" 404 963 http-bio-8080-exec-1 530

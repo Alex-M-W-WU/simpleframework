@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [21/Nov/2020:00:08:16 +0800] "GET /simpleFrameWork/hello HTTP/1.1" 200 132 http-bio-8080-exec-2 285
+0:0:0:0:0:0:0:1 - - [21/Nov/2020:00:08:22 +0800] "GET /simpleFrameWork/ HTTP/1.1" 200 132 http-bio-8080-exec-4 3
